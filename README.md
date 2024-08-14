@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-harshal-more&label=Profile%20views&color=0e75b6&style=flat" alt="iam-harshal-more" /> </p>
 
-- 🔭 I’m currently working on **TCS as AWS Devops Engineer**
+- 🔭 I’m currently working in **TCS as AWS Devops Engineer**
 
 - 🌱 I’m currently learning **AWS Cloud & Devops**
 
@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/harshal_more_c53727403ab5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/harshal_more_c53727403ab5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshal-more-patil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshal-more-patil/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@harshalmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@harshalmore" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/harshal_more/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/harshal_more/" height="30" width="40" /></a>
+<a href="https://dev.to/harshal_more_c53727403ab5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshal_more_c53727403ab5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshal-more-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-more-patil" height="30" width="40" /></a>
+<a href="https://hashnode.com/@harshalmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harshalmore" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harshal_more" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshal_more" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
