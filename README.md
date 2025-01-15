@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harshal More</h1>
-<h3 align="center">A passionate AWS & DevOps Engineer from India</h3>
+<h3 align="center">A passionate Java, Spring Boot, Restful Services, AWS & DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-harshal-more&label=Profile%20views&color=0e75b6&style=flat" alt="iam-harshal-more" /> </p>
 
-- 🔭 I’m currently working in **TCS as AWS Devops Engineer**
+- 🔭 I’m currently working in **TCS as Software Engineer**
 
 - 🌱 I’m currently learning **AWS Cloud & Devops**
 
 - 📝 I regularly write articles on [https://hashnode.com/@HarshalMore](https://hashnode.com/@HarshalMore)
 
-- 💬 Ask me about **AWS,Devops**
+- 💬 Ask me about **Java, Spring Boot, Restful Services, Microservices, AWS,Devops**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
